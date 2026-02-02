@@ -1,0 +1,32 @@
+/* KOMMENTARE MIT:  SHIFT+COMMAND+7 */
+
+
+/* DATEI: format.css */
+h1 {
+		color: red;
+		background-color: yellow;
+   }
+   
+h2 {
+	color: blue;
+	font-size: 25px;
+	}
+
+/* 1. Hintergrund silber & 2. Schriftart Arial für die gesamte Seite */
+body {
+    background-color: silver;
+    font-family: Arial, sans-serif;
+}
+
+/* 3. Alle Absätze (p) zentriert */
+p {
+    text-align: center;
+}
+
+/* LISTE KONFIGURIEREN / DIE SYMBOLE DER AUFZÄHLUNG */
+li {
+	/* list-style: square; */
+	list-style-type: upper-roman;
+}
+
+
